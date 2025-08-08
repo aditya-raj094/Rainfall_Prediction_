@@ -1,4 +1,4 @@
-# 🌧️ Rainfall Prediction in India (Regression)
+# 🌧️ Rainfall Prediction in India 
 
 This project uses historical rainfall data across Indian states and districts to **predict annual rainfall** using a Random Forest Regression model. The goal is to analyze rainfall trends and predict annual totals based on monthly rainfall inputs.
 
